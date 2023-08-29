@@ -1,0 +1,15 @@
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\bin\Debug\net7.0\Atividade.exe
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\bin\Debug\net7.0\Atividade.deps.json
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\bin\Debug\net7.0\Atividade.dll
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\bin\Debug\net7.0\Atividade.pdb
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.dll
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.pdb
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\0.Senai_PBE_T14\09. Codificacao para Back-End\07a - SP2 - Atividade 1\_SENAI\Atividade\obj\Debug\net7.0\ref\Atividade.dll
